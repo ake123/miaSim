@@ -19,7 +19,6 @@ Authors@R:
               email = "leo.lahti@iki.fi",
               comment = c(ORCID = "0000-0001-5537-637X")),
        person(given = "Muluh", family = "Muluh", role=c("ctb")),
-       person(given = "Nitesh", family = "Turaga", role=c("ctb")),
        person(given = "Akewak", family = "Jeba", role=c("ctb"))
       )
 Title: Microbiome Data Simulation
